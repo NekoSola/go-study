@@ -5,6 +5,6 @@ import (
 	"math/rand"
 )
 
-func hlwd() {
+func Hlwd() {
 	fmt.Println("My favorite number is", rand.Intn(10))
 }

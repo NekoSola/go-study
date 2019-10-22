@@ -1,9 +1,5 @@
 package main
 
-import(
-	"github.com/NekoSola/go-study/app/b1"
-)
+func main() {
 
-func main(){
-	b1()
 }
