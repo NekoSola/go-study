@@ -1,9 +1,9 @@
 package main
 
 import (
-	"app/b1"
+	"github.com/NekoSola/go-study/src/app"
 )
 
 func main() {
-	b1.Hlwd()
+	app.Hlwd()
 }

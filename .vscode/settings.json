@@ -1,7 +1,0 @@
-{
-    "go.gopath": "/Users/neko/Documents/GitHub/go-study",
-    "go.toolsGopath":"/Users/neko/go"
-    // "code-runner.executorMap": {
-    //     "go": "export GOPATH='/Users/neko/Documents/project/go-study' && go run"
-    //   }
-}
