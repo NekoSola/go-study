@@ -1,10 +1,10 @@
-package main
+package b1
 
 import (
 	"fmt"
 	"math/rand"
 )
 
-func main() {
+func hlwd() {
 	fmt.Println("My favorite number is", rand.Intn(10))
 }
